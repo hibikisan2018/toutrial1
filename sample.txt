@@ -1,2 +1,3 @@
 This is an example of git.
 add import the change contents to index
+commit record the status of index
